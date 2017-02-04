@@ -1,0 +1,2 @@
+# CallCasting
+A startup that attempts to remove the agent from casting calls and show business. Using a unified profile an actor can upload their resume, headshots, pieces, any other relevant items and send them to whichever project or role is available and interests them. This will allow the production company and the prospective actor/actress to have a much more direct collaboration and discussion. 
